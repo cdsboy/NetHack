@@ -80,16 +80,16 @@ TRAP:"fire",random
 TRAP:"fire",random
 TRAP:"fire",random
 # Monsters on siege duty.
-MONSTER: ('a',"fire ant"),(04,12)
-MONSTER: ('a',"fire ant"),(08,08)
-MONSTER: ('a',"fire ant"),(14,04)
-MONSTER: ('a',"fire ant"),(17,11)
-MONSTER: ('a',"fire ant"),(24,10)
-MONSTER: ('a',"fire ant"),(45,10)
-MONSTER: ('a',"fire ant"),(54,02)
-MONSTER: ('a',"fire ant"),(55,07)
-MONSTER: ('a',"fire ant"),(58,14)
-MONSTER: ('a',"fire ant"),(63,17)
+MONSTER: ('a',"spicy boy"),(04,12)
+MONSTER: ('a',"spicy boy"),(08,08)
+MONSTER: ('a',"spicy boy"),(14,04)
+MONSTER: ('a',"spicy boy"),(17,11)
+MONSTER: ('a',"spicy boy"),(24,10)
+MONSTER: ('a',"spicy boy"),(45,10)
+MONSTER: ('a',"spicy boy"),(54,02)
+MONSTER: ('a',"spicy boy"),(55,07)
+MONSTER: ('a',"spicy boy"),(58,14)
+MONSTER: ('a',"spicy boy"),(63,17)
 MONSTER: ('H',"fire giant"),(18,01),hostile
 MONSTER: ('H',"fire giant"),(10,16),hostile
 
@@ -150,23 +150,23 @@ TRAP:"fire",random
 TRAP:random,random
 TRAP:random,random
 # Random monsters.
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
 MONSTER:'a',random
 MONSTER:'H',random,hostile
 MONSTER:('H',"fire giant"),random,hostile
@@ -248,10 +248,10 @@ TRAP:random,random
 TRAP:random,random
 # Random monsters.
 MONSTER:('H',"Lord Surtur"),(17,08)
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
-MONSTER:('a',"fire ant"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
+MONSTER:('a',"spicy boy"),random
 MONSTER:'a',random
 MONSTER:'a',random
 MONSTER:('H',"fire giant"),(10,06),hostile
@@ -295,11 +295,11 @@ OBJECT: random, random
 OBJECT: random, random
 OBJECT: random, random
 #
-MONSTER: ('a', "fire ant"), random
-MONSTER: ('a', "fire ant"), random
-MONSTER: ('a', "fire ant"), random
-MONSTER: ('a', "fire ant"), random
-MONSTER: ('a', "fire ant"), random
+MONSTER: ('a', "spicy boy"), random
+MONSTER: ('a', "spicy boy"), random
+MONSTER: ('a', "spicy boy"), random
+MONSTER: ('a', "spicy boy"), random
+MONSTER: ('a', "spicy boy"), random
 MONSTER: 'a', random
 MONSTER: ('H', "fire giant"), random, hostile
 #
@@ -331,9 +331,9 @@ OBJECT: random, random
 OBJECT: random, random
 OBJECT: random, random
 #
-MONSTER: ('a', "fire ant"), random
-MONSTER: ('a', "fire ant"), random
-MONSTER: ('a', "fire ant"), random
+MONSTER: ('a', "spicy boy"), random
+MONSTER: ('a', "spicy boy"), random
+MONSTER: ('a', "spicy boy"), random
 MONSTER: 'a', random
 MONSTER: ('H', "fire giant"), random, hostile
 MONSTER: ('H', "fire giant"), random, hostile
